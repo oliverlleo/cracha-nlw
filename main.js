@@ -1,7 +1,7 @@
 const LinksSocialMedia = {
   github: 'oliverlleo',
-  youtube: 'UCMnJbjFBh09sv82rJGTZZ_g',
-  facebook: 'id=100006166270085',
+  youtube: 'channel/UCMnJbjFBh09sv82rJGTZZ_g',
+  facebook: 'profile.php?id=100006166270085',
   instagram: 'oliver.lleo'
 }
 
